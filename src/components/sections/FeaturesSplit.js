@@ -115,7 +115,7 @@ const FeaturesSplit = ({
               >
                 <Image
                   src={
-                    "http://www.tokiohotelamerica.com/wp-content/uploads/2020/05/mobil-odeme-ile-bahis-para-yatirma.jpg.webp"
+                    "https://miro.medium.com/max/600/1*hK58PjoY0R0e5MNsLHXUEw.png"
                   }
                   alt="Features split 02"
                   width={528}
